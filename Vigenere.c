@@ -20,7 +20,6 @@ for(int i=0;i<=25;i++){
     }
 }
 
-
 printf("Please type the 10 letter key\n");
 scanf("%10s",&keyarray);
 for(int i=0;i<=9;i++){
